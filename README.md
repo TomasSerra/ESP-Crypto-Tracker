@@ -4,7 +4,7 @@ ESP32 and ESP8266 crypto tracker via WiFi connection. Original idea by Michael K
 
 
 <h3>Preview:</h3>
-<img src="crypto ticker.jpeg">
+<img src="crypto ticker.jpeg" width=400px>
 This picture belongs to Michael Klements
 
 <h3>Schematic:</h3>
